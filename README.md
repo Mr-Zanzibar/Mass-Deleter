@@ -1,5 +1,5 @@
 # Mass-Deleter
-it can delete cmd , task manager and explorer and rundll32
+it can delete cmd , task manager and explorer and rundll32 from a computer
 
 ## build
 
