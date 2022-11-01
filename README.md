@@ -3,7 +3,7 @@ it can delete cmd , task manager and explorer and rundll32
 
 ## build
 
-> ```Cargo b --release```
+> ```cargo b --release```
 
 ## Bad Code
 
